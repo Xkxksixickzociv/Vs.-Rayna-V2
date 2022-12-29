@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				5,
-				-6
+				32,
+				-19
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-20,
-				-51
+				48,
+				-76
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-46,
-				27
+				8,
+				6
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-48,
-				-7
+				-11,
+				-18
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				7,
-				19
+				37,
+				-21
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				-15,
-				-19
+				47,
+				-83
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				-46,
-				27
+				11,
+				5
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-44,
-				22
+				-12,
+				-17
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,8 +101,8 @@
 		},
 		{
 			"offsets": [
-				-3,
-				5
+				25,
+				1
 			],
 			"loop": false,
 			"fps": 24,
@@ -112,18 +112,7 @@
 		},
 		{
 			"offsets": [
-				14,
-				18
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hurt",
-			"indices": [],
-			"name": "BF hit"
-		},
-		{
-			"offsets": [
-				-4,
+				-11,
 				0
 			],
 			"loop": true,
@@ -134,8 +123,8 @@
 		},
 		{
 			"offsets": [
-				37,
-				11
+				57,
+				1
 			],
 			"loop": false,
 			"fps": 24,
@@ -145,8 +134,8 @@
 		},
 		{
 			"offsets": [
-				37,
-				5
+				47,
+				-5
 			],
 			"loop": true,
 			"fps": 24,
@@ -156,65 +145,32 @@
 		},
 		{
 			"offsets": [
-				37,
-				69
+				47,
+				59
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "deathConfirm",
 			"indices": [],
 			"name": "BF Dead confirm"
-		},
-		{
-			"offsets": [
-				-10,
-				-16
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dodge",
-			"indices": [],
-			"name": "boyfriend dodge"
-		},
-		{
-			"offsets": [
-				294,
-				267
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "attack",
-			"indices": [],
-			"name": "boyfriend attack"
-		},
-		{
-			"offsets": [
-				-40,
-				-40
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "pre-attack",
-			"indices": [],
-			"name": "bf pre attack"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/mean",
 	"position": [
-		0,
-		350
+		-130,
+		610
 	],
-	"healthicon": "bf",
+	"healthicon": "mean",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		95,
+		182,
+		241
 	],
 	"camera_position": [
-		0,
-		0
+		270,
+		-90
 	],
 	"sing_duration": 4,
 	"scale": 1

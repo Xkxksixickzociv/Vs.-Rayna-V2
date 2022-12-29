@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SONGY IDLE"
+		},
+		{
+			"offsets": [
+				-32,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "songy left"
+		},
+		{
+			"offsets": [
+				-56,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "songy up"
+		},
+		{
+			"offsets": [
+				-25,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SONGY RIGHT"
+		},
+		{
+			"offsets": [
+				-83,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "songy down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SONGY",
+	"position": [
+		-130,
+		560
+	],
+	"healthicon": "songy",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		154,
+		192
+	],
+	"camera_position": [
+		10,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

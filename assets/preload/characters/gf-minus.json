@@ -3,8 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				3,
-				0
+				0,
+				-1
 			],
 			"fps": 24,
 			"anim": "cheer",
@@ -15,7 +15,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				-19
+				-13
 			],
 			"fps": 24,
 			"anim": "singLEFT",
@@ -37,7 +37,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				4
+				-1
 			],
 			"fps": 24,
 			"anim": "singUP",
@@ -48,7 +48,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				-20
+				-10
 			],
 			"fps": 24,
 			"anim": "singRIGHT",
@@ -59,7 +59,7 @@
 			"loop": false,
 			"offsets": [
 				-2,
-				-21
+				-24
 			],
 			"fps": 24,
 			"anim": "sad",
@@ -138,8 +138,8 @@
 		{
 			"loop": true,
 			"offsets": [
-				45,
-				-8
+				0,
+				-15
 			],
 			"fps": 24,
 			"anim": "hairBlow",
@@ -155,7 +155,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				-9
+				-12
 			],
 			"fps": 24,
 			"anim": "hairFall",
@@ -179,7 +179,7 @@
 			"loop": true,
 			"offsets": [
 				-2,
-				-17
+				-3
 			],
 			"fps": 24,
 			"anim": "scared",
@@ -188,10 +188,10 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/GFminus_assets",
 	"position": [
 		0,
-		0
+		100
 	],
 	"healthicon": "gf",
 	"flip_x": false,

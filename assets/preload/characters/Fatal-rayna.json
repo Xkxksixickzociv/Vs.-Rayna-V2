@@ -1,0 +1,205 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rayna idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				23,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "rayna left0"
+		},
+		{
+			"offsets": [
+				-99,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "rayna right miss"
+		},
+		{
+			"offsets": [
+				105,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "rayna down miss"
+		},
+		{
+			"offsets": [
+				101,
+				-59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "rayna down0"
+		},
+		{
+			"offsets": [
+				-7,
+				68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "rayna up0"
+		},
+		{
+			"offsets": [
+				15,
+				57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "rayna up miss"
+		},
+		{
+			"offsets": [
+				-79,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RAYNA RIGHT0"
+		},
+		{
+			"offsets": [
+				-4,
+				203
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "rayna dead confirm"
+		},
+		{
+			"offsets": [
+				20,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "rayna left miss"
+		},
+		{
+			"offsets": [
+				-1,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				50
+			],
+			"name": "rayna dies"
+		},
+		{
+			"offsets": [
+				-5,
+				80
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "rayna dead loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fatal-rayna",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fatal-rayna",
+	"flip_x": true,
+	"healthbar_colors": [
+		254,
+		169,
+		188
+	],
+	"camera_position": [
+		240,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "discord idle"
+		},
+		{
+			"offsets": [
+				21,
+				58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "disc up"
+		},
+		{
+			"offsets": [
+				50,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "DISC LEFT"
+		},
+		{
+			"offsets": [
+				-106,
+				-59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "DISC RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "disc down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/discordassets",
+	"position": [
+		90,
+		260
+	],
+	"healthicon": "discord",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		42,
+		137
+	],
+	"camera_position": [
+		210,
+		-380
+	],
+	"sing_duration": 4,
+	"scale": 1.9
+}

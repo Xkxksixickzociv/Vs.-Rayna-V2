@@ -1,0 +1,205 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "rayna idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rayna left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-109,
+				-13
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rayna right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-62
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "rayna down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rayna down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				49
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rayna up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				27
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "rayna up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				254
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "rayna dead confirm",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-5
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "rayna left miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				8,
+				151
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "rayna dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-112,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rayna right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				145
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Rayna dies",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				50
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RaynaJenny",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fatal-rayna",
+	"flip_x": true,
+	"healthbar_colors": [
+		254,
+		169,
+		188
+	],
+	"camera_position": [
+		230,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
