@@ -1,0 +1,10 @@
+{
+	"directory": "rayna",
+	"defaultZoom": 0.7,
+	"isPixelStage": false,
+	"hide_girlfriend": true,
+
+	"boyfriend": [1400, 1700],
+	"girlfriend": [1300, 1600],
+	"opponent": [400, 1800]
+}
