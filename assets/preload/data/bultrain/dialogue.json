@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna",
+			"boxState": "normal",
+			"expression": "uh",
+			"text": "BF?!?!"
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna",
+			"boxState": "normal",
+			"expression": "eh",
+			"text": "IS HE OKAY?"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "gf_rayna",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't worry, it's normal for him, you were fantastic."
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thank you so much! I haven't felt so encouraged since a few weeks ago..."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "in that case, I guess it's my turn!"
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna",
+			"boxState": "normal",
+			"expression": "eh",
+			"text": "Pico? I thought you were satisfied with the last time."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "pico",
+			"boxState": "normal",
+			"expression": "eh",
+			"text": "I'm here for a rematch, I don't want to talk about what happened before.."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "rayna",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well, if it makes you happy, go ahead"
+		}
+	]
+}
