@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gangbop.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gang Bottom Boppers0000" x="0" y="0" width="2184" height="742" pivotX="-250.25" pivotY="-101.9" frameX="0" frameY="-44" frameWidth="2184" frameHeight="786"/>
+	<SubTexture name="Gang Bottom Boppers0001" x="0" y="0" width="2184" height="742" frameX="0" frameY="-44" frameWidth="2184" frameHeight="786"/>
+	<SubTexture name="Gang Bottom Boppers0002" x="0" y="742" width="2181" height="768" frameX="-2" frameY="-18" frameWidth="2184" frameHeight="786"/>
+	<SubTexture name="Gang Bottom Boppers0003" x="0" y="742" width="2181" height="768" frameX="-2" frameY="-18" frameWidth="2184" frameHeight="786"/>
+	<SubTexture name="Gang Bottom Boppers0004" x="0" y="1510" width="2179" height="786" frameX="-3" frameY="0" frameWidth="2184" frameHeight="786"/>
+	<SubTexture name="Gang Bottom Boppers0005" x="0" y="1510" width="2179" height="786" frameX="-3" frameY="0" frameWidth="2184" frameHeight="786"/>
+	<SubTexture name="Gang Bottom Boppers0006" x="0" y="2296" width="2178" height="786" frameX="-4" frameY="0" frameWidth="2184" frameHeight="786"/>
+	<SubTexture name="Gang Bottom Boppers0007" x="0" y="2296" width="2178" height="786" frameX="-4" frameY="0" frameWidth="2184" frameHeight="786"/>
+	<SubTexture name="Gang Bottom Boppers0008" x="0" y="3082" width="2177" height="786" frameX="-4" frameY="0" frameWidth="2184" frameHeight="786"/>
+	<SubTexture name="Gang Bottom Boppers0009" x="0" y="3082" width="2177" height="786" frameX="-4" frameY="0" frameWidth="2184" frameHeight="786"/>
+</TextureAtlas>
