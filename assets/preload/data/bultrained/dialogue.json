@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may",
+			"boxState": "normal",
+			"expression": "wtf",
+			"text": "WTF MEAN, YOU INTERRUPT ME"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "Mean",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Im sorry."
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "You're sorry? I thought you'd be the typical cocky kid.."
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "in that case, please don't do it again, it makes me nervous...."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "Mean",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you didn't look nervous at all after I interrupted you."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "Mean",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you did pretty well"
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may",
+			"boxState": "normal",
+			"expression": "lol",
+			"text": "a little corny of you, but I really appreciate it."
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I have to admit, you did well"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "minus_pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well happy couple, if you're done, I guess it's my turn."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "Mean",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what are you doing here."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "minus_pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I've come for a rematch, if I win I'll take your girlfriend with me."
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may",
+			"boxState": "normal",
+			"expression": "wtf",
+			"text": "WTF WE HAVE JUST MET"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "minus_pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You just met them and you have 3 guys at your feets."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "minus_pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you could be useful to me."
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Listen, Man."
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I will accept your challenge for Mean, but I will help him."
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Deal?."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "minus_pico",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fine."
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, let's stop wasting time, I have things to do."
+		}
+	]
+}
