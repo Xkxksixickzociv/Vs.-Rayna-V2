@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that was pretty cool! I think I'm more encouraged now...."
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't think I'm done! the next song is sure to delight you!"
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Are you ready???!"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "bf_rayna",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ready when you are."
+		}
+	]
+}
