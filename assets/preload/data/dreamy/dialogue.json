@@ -1,0 +1,260 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well, im already here, what should i do now?"
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "eh",
+			"text": "should i go home already or..."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "gf_rayna",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey Rayna, finally i found you!!"
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "uhhh",
+			"text": "Girlfriend? what are you doing here??"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "gf_rayna",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Don't you remember we were supposed to meet later today?."
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "eh",
+			"text": "ehh.. yeah but I thought we were meeting at your parents house, not outside my house."
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "eh",
+			"text": "Did you have problems with your parents again?."
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "what",
+			"text": "oh they found out about our little secret?!!?"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "gf_rayna",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uhh... they didn't notice about our deal, don't worry."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "gf_rayna",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Im here because i wanted to introduce you to my boyfriend!"
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "eh",
+			"text": "The guy called... Boyfriend, right?"
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna",
+			"boxState": "normal",
+			"expression": "uh",
+			"text": "(y pense que yo era mala con los nombres...)"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "bf_rayna",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey"
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hi boyfriend, nice to meet you"
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "it looks like you had the balls to date someone with...."
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna",
+			"boxState": "normal_enemy",
+			"expression": "talk",
+			"text": "dangerous parents."
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Those guys told me about you earlier"
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "eh",
+			"text": "although everything they told me doesn't match up at all with what I'm seeing right now."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "bf_rayna",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I wouldn't be surprised if your goal is to get rid of me."
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "eh",
+			"text": "Well, that should be my job, but you don't really look like a bad guy."
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I also have problems with them when it comes to killing someone in cold blood."
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "eh",
+			"text": "I've been asked about getting rid of a guy in a place full of toxic waste."
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "what",
+			"text": "a strange experiment that dresses up as a clown."
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and also a poor guy who just lives his life quietly."
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "he is on his way to becoming a star and has a very pretty girlfriend."
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "he's a nice guy, I hope I can be friends with him someday."
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "eh",
+			"text": "my job is a bit exhausting..."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "gf_rayna",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well, since you say it's exhausting."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "gf_rayna",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why don't you sing with my boyfriend, it will be fun."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "gf_rayna",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah, it sure will do you good to clear your head."
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.15,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "uh",
+			"text": "..."
+		},
+		{
+			"sound": "dialogue_rayna",
+			"speed": 0.05,
+			"portrait": "rayna_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "All right, go ahead!"
+		}
+	]
+}
