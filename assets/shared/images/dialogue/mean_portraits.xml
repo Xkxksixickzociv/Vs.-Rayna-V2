@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mean_portraits.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mean speaks0000" x="0" y="0" width="440" height="446" frameX="0" frameY="-6" frameWidth="443" frameHeight="452"/>
+	<SubTexture name="mean speaks0001" x="0" y="0" width="440" height="446" frameX="0" frameY="-6" frameWidth="443" frameHeight="452"/>
+	<SubTexture name="mean speaks0002" x="440" y="0" width="437" height="444" frameX="0" frameY="-8" frameWidth="443" frameHeight="452"/>
+	<SubTexture name="mean speaks0003" x="440" y="0" width="437" height="444" frameX="0" frameY="-8" frameWidth="443" frameHeight="452"/>
+	<SubTexture name="mean speaks0004" x="877" y="0" width="439" height="448" frameX="0" frameY="-4" frameWidth="443" frameHeight="452"/>
+	<SubTexture name="mean speaks0005" x="877" y="0" width="439" height="448" frameX="0" frameY="-4" frameWidth="443" frameHeight="452"/>
+	<SubTexture name="mean speaks0006" x="1316" y="0" width="442" height="451" frameX="0" frameY="-1" frameWidth="443" frameHeight="452"/>
+	<SubTexture name="mean speaks0007" x="1316" y="0" width="442" height="451" frameX="0" frameY="-1" frameWidth="443" frameHeight="452"/>
+	<SubTexture name="mean speaks0008" x="1758" y="0" width="443" height="452"/>
+	<SubTexture name="mean stop0000" x="2201" y="0" width="443" height="452"/>
+	<SubTexture name="mean stop0001" x="2201" y="0" width="443" height="452"/>
+</TextureAtlas>

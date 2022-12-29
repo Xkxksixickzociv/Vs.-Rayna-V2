@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf_portraits.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf speaaks0000" x="0" y="0" width="385" height="495" frameX="-1" frameY="-1" frameWidth="386" frameHeight="496"/>
+	<SubTexture name="bf speaaks0001" x="0" y="0" width="385" height="495" frameX="-1" frameY="-1" frameWidth="386" frameHeight="496"/>
+	<SubTexture name="bf speaaks0002" x="385" y="0" width="382" height="490" frameX="0" frameY="-6" frameWidth="386" frameHeight="496"/>
+	<SubTexture name="bf speaaks0003" x="385" y="0" width="382" height="490" frameX="0" frameY="-6" frameWidth="386" frameHeight="496"/>
+	<SubTexture name="bf speaaks0004" x="767" y="0" width="383" height="493" frameX="-1" frameY="-3" frameWidth="386" frameHeight="496"/>
+	<SubTexture name="bf speaaks0005" x="767" y="0" width="383" height="493" frameX="-1" frameY="-3" frameWidth="386" frameHeight="496"/>
+	<SubTexture name="bf speaaks0006" x="1150" y="0" width="385" height="495" frameX="-1" frameY="-1" frameWidth="386" frameHeight="496"/>
+	<SubTexture name="bf speaaks0007" x="1150" y="0" width="385" height="495" frameX="-1" frameY="-1" frameWidth="386" frameHeight="496"/>
+	<SubTexture name="bf speaaks0008" x="1535" y="0" width="385" height="496" frameX="-1" frameY="0" frameWidth="386" frameHeight="496"/>
+	<SubTexture name="bf stop0000" x="1920" y="0" width="385" height="496"/>
+	<SubTexture name="bf stop0001" x="1920" y="0" width="385" height="496"/>
+</TextureAtlas>

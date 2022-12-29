@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_portraits.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf speaks0000" x="0" y="0" width="400" height="663" frameX="-1" frameY="-3" frameWidth="403" frameHeight="666"/>
+	<SubTexture name="gf speaks0001" x="0" y="0" width="400" height="663" frameX="-1" frameY="-3" frameWidth="403" frameHeight="666"/>
+	<SubTexture name="gf speaks0002" x="400" y="0" width="395" height="666" frameX="0" frameY="0" frameWidth="403" frameHeight="666"/>
+	<SubTexture name="gf speaks0003" x="400" y="0" width="395" height="666" frameX="0" frameY="0" frameWidth="403" frameHeight="666"/>
+	<SubTexture name="gf speaks0004" x="795" y="0" width="399" height="665" frameX="0" frameY="-1" frameWidth="403" frameHeight="666"/>
+	<SubTexture name="gf speaks0005" x="795" y="0" width="399" height="665" frameX="0" frameY="-1" frameWidth="403" frameHeight="666"/>
+	<SubTexture name="gf speaks0006" x="1194" y="0" width="402" height="664" frameX="0" frameY="-2" frameWidth="403" frameHeight="666"/>
+	<SubTexture name="gf speaks0007" x="1194" y="0" width="402" height="664" frameX="0" frameY="-2" frameWidth="403" frameHeight="666"/>
+	<SubTexture name="gf speaks0008" x="1596" y="0" width="403" height="664" frameX="0" frameY="-2" frameWidth="403" frameHeight="666"/>
+	<SubTexture name="gf stop0000" x="1999" y="0" width="403" height="664"/>
+	<SubTexture name="gf stop0001" x="1999" y="0" width="403" height="664"/>
+</TextureAtlas>

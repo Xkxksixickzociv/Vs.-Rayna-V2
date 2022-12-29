@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rayna_potraits_enemy.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rayna10000" x="0" y="0" width="631" height="804" frameX="-24" frameY="-10" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna10001" x="0" y="0" width="631" height="804" frameX="-24" frameY="-10" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna10002" x="631" y="0" width="645" height="799" frameX="-9" frameY="0" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna10003" x="631" y="0" width="645" height="799" frameX="-9" frameY="0" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna10004" x="1276" y="0" width="665" height="795" frameX="0" frameY="-4" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna10005" x="1276" y="0" width="665" height="795" frameX="0" frameY="-4" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna10006" x="1941" y="0" width="649" height="793" frameX="-7" frameY="-14" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna10007" x="1941" y="0" width="649" height="793" frameX="-7" frameY="-14" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna10008" x="2590" y="0" width="648" height="799" frameX="-12" frameY="-18" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna1Stop0000" x="3238" y="0" width="648" height="799"/>
+	<SubTexture name="Rayna1Stop0001" x="3238" y="0" width="648" height="799"/>
+	<SubTexture name="Rayna20000" x="3886" y="0" width="640" height="805" frameX="-10" frameY="0" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20001" x="4526" y="0" width="640" height="805" frameX="-10" frameY="0" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20002" x="3886" y="0" width="640" height="805" frameX="-10" frameY="0" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20003" x="5166" y="0" width="642" height="806" frameX="-8" frameY="0" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20004" x="5808" y="0" width="642" height="806" frameX="-8" frameY="0" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20005" x="0" y="806" width="645" height="809" frameX="-5" frameY="0" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20006" x="645" y="806" width="645" height="809" frameX="-5" frameY="0" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20007" x="1290" y="806" width="650" height="811" frameX="0" frameY="-5" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20008" x="1940" y="806" width="650" height="811" frameX="0" frameY="-5" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20009" x="2590" y="806" width="640" height="810" frameX="-10" frameY="-13" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20010" x="3230" y="806" width="640" height="810" frameX="-10" frameY="-13" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20011" x="2590" y="806" width="640" height="810" frameX="-10" frameY="-13" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20012" x="3870" y="806" width="636" height="808" frameX="-14" frameY="-18" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20013" x="4506" y="806" width="636" height="808" frameX="-14" frameY="-18" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20014" x="3870" y="806" width="636" height="808" frameX="-14" frameY="-18" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20015" x="5142" y="806" width="630" height="805" frameX="-20" frameY="-20" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20016" x="5772" y="806" width="630" height="805" frameX="-20" frameY="-20" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20017" x="6402" y="806" width="624" height="805" frameX="-26" frameY="-17" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20018" x="0" y="1617" width="624" height="805" frameX="-26" frameY="-17" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20019" x="624" y="1617" width="630" height="803" frameX="-20" frameY="-11" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20020" x="1254" y="1617" width="630" height="803" frameX="-20" frameY="-11" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna20021" x="1884" y="1617" width="635" height="805" frameX="-15" frameY="-3" frameWidth="650" frameHeight="826"/>
+	<SubTexture name="Rayna30000" x="2519" y="1617" width="631" height="804" frameX="-24" frameY="-10" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna30001" x="2519" y="1617" width="631" height="804" frameX="-24" frameY="-10" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna30002" x="3150" y="1617" width="645" height="799" frameX="-9" frameY="0" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna30003" x="3150" y="1617" width="645" height="799" frameX="-9" frameY="0" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna30004" x="3795" y="1617" width="665" height="795" frameX="0" frameY="-4" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna30005" x="3795" y="1617" width="665" height="795" frameX="0" frameY="-4" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna30006" x="4460" y="1617" width="649" height="793" frameX="-7" frameY="-14" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna30007" x="4460" y="1617" width="649" height="793" frameX="-7" frameY="-14" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna30008" x="5109" y="1617" width="648" height="799" frameX="-12" frameY="-18" frameWidth="665" frameHeight="817"/>
+	<SubTexture name="Rayna3Stop0000" x="5757" y="1617" width="648" height="799"/>
+	<SubTexture name="Rayna3Stop0001" x="5757" y="1617" width="648" height="799"/>
+	<SubTexture name="Rayna40000" x="6405" y="1617" width="623" height="807" frameX="-25" frameY="-22" frameWidth="658" frameHeight="833"/>
+	<SubTexture name="Rayna40001" x="0" y="2424" width="623" height="807" frameX="-25" frameY="-22" frameWidth="658" frameHeight="833"/>
+	<SubTexture name="Rayna40002" x="623" y="2424" width="623" height="810" frameX="-17" frameY="0" frameWidth="658" frameHeight="833"/>
+	<SubTexture name="Rayna40003" x="1246" y="2424" width="623" height="810" frameX="-17" frameY="0" frameWidth="658" frameHeight="833"/>
+	<SubTexture name="Rayna40004" x="1869" y="2424" width="658" height="799" frameX="0" frameY="-11" frameWidth="658" frameHeight="833"/>
+	<SubTexture name="Rayna40005" x="2527" y="2424" width="658" height="799" frameX="0" frameY="-11" frameWidth="658" frameHeight="833"/>
+	<SubTexture name="Rayna40006" x="3185" y="2424" width="649" height="793" frameX="-4" frameY="-29" frameWidth="658" frameHeight="833"/>
+	<SubTexture name="Rayna40007" x="3834" y="2424" width="649" height="793" frameX="-4" frameY="-29" frameWidth="658" frameHeight="833"/>
+	<SubTexture name="Rayna40008" x="4483" y="2424" width="648" height="798" frameX="-9" frameY="-35" frameWidth="658" frameHeight="833"/>
+	<SubTexture name="Rayna4Stop0000" x="5131" y="2424" width="648" height="798"/>
+	<SubTexture name="Rayna4Stop0001" x="5779" y="2424" width="648" height="798"/>
+	<SubTexture name="Rayna4Stop0002" x="5131" y="2424" width="648" height="798"/>
+	<SubTexture name="Rayna4Stop0003" x="5779" y="2424" width="648" height="798"/>
+	<SubTexture name="Rayna4Stop0004" x="5131" y="2424" width="648" height="798"/>
+	<SubTexture name="Rayna4Stop0005" x="5779" y="2424" width="648" height="798"/>
+	<SubTexture name="Rayna4Stop0006" x="5131" y="2424" width="648" height="798"/>
+	<SubTexture name="Rayna4Stop0007" x="5779" y="2424" width="648" height="798"/>
+	<SubTexture name="Rayna4Stop0008" x="5131" y="2424" width="648" height="798"/>
+</TextureAtlas>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pico_og_portraits.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pico og speaks0000" x="0" y="0" width="482" height="503" frameX="0" frameY="-6" frameWidth="484" frameHeight="509"/>
+	<SubTexture name="pico og speaks0001" x="0" y="0" width="482" height="503" frameX="0" frameY="-6" frameWidth="484" frameHeight="509"/>
+	<SubTexture name="pico og speaks0002" x="482" y="0" width="480" height="506" frameX="-2" frameY="-3" frameWidth="484" frameHeight="509"/>
+	<SubTexture name="pico og speaks0003" x="482" y="0" width="480" height="506" frameX="-2" frameY="-3" frameWidth="484" frameHeight="509"/>
+	<SubTexture name="pico og speaks0004" x="962" y="0" width="480" height="508" frameX="-4" frameY="-1" frameWidth="484" frameHeight="509"/>
+	<SubTexture name="pico og speaks0005" x="962" y="0" width="480" height="508" frameX="-4" frameY="-1" frameWidth="484" frameHeight="509"/>
+	<SubTexture name="pico og speaks0006" x="1442" y="0" width="480" height="509" frameX="-2" frameY="0" frameWidth="484" frameHeight="509"/>
+	<SubTexture name="pico og speaks0007" x="1442" y="0" width="480" height="509" frameX="-2" frameY="0" frameWidth="484" frameHeight="509"/>
+	<SubTexture name="pico og speaks0008" x="1922" y="0" width="481" height="509" frameX="-1" frameY="0" frameWidth="484" frameHeight="509"/>
+	<SubTexture name="pico og stop0000" x="2403" y="0" width="481" height="509"/>
+	<SubTexture name="pico og stop0001" x="2403" y="0" width="481" height="509"/>
+</TextureAtlas>
