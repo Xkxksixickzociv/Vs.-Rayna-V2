@@ -1,0 +1,25 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-230,
+		-100
+	],
+	"no_antialiasing": false,
+	"scale": 1.05,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-128,
+				-163
+			],
+			"idle_offsets": [
+				-126,
+				-164
+			],
+			"loop_name": "beta speaks",
+			"idle_name": "beta stop"
+		}
+	],
+	"image": "beta_portraits"
+}

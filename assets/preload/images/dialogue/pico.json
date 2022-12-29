@@ -1,0 +1,25 @@
+{
+	"position": [
+		-60,
+		-110
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 1.05,
+	"image": "pico_og_portraits",
+	"animations": [
+		{
+			"idle_offsets": [
+				-131,
+				-165
+			],
+			"loop_offsets": [
+				-128,
+				-161
+			],
+			"anim": "talk",
+			"idle_name": "pico og stop",
+			"loop_name": "pico og speaks"
+		}
+	]
+}

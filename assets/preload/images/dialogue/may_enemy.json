@@ -1,0 +1,63 @@
+{
+	"position": [
+		160,
+		50
+	],
+	"dialogue_pos": "left",
+	"scale": 1.5,
+	"image": "may_portraits_enemy",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-2
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "may3stop",
+			"loop_name": "may30"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "huh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "may10",
+			"idle_name": "may1stop"
+		},
+		{
+			"loop_offsets": [
+				0,
+				20
+			],
+			"anim": "wtf",
+			"idle_offsets": [
+				0,
+				21
+			],
+			"loop_name": "may20",
+			"idle_name": "may2stop"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "lol",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "may4",
+			"idle_name": "may4"
+		}
+	]
+}

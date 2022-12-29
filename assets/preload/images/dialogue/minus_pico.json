@@ -1,0 +1,25 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-60,
+		-110
+	],
+	"no_antialiasing": false,
+	"scale": 1.05,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-128,
+				-161
+			],
+			"idle_offsets": [
+				-131,
+				-165
+			],
+			"loop_name": "pico speaks",
+			"idle_name": "pico stop"
+		}
+	],
+	"image": "minus_pico"
+}

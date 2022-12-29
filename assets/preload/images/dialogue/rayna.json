@@ -1,0 +1,64 @@
+{
+	"position": [
+		-80,
+		-140
+	],
+	"dialogue_pos": "right",
+	"no_antialiasing": false,
+	"scale": 1.05,
+	"image": "rayna_potraits_normal",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "Rayna1Stop",
+			"loop_name": "Rayna10"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "uh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Rayna2",
+			"idle_name": "Rayna2"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "eh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Rayna30",
+			"idle_name": "Rayna3Stop"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "what",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Rayna40",
+			"idle_name": "Rayna4Stop"
+		}
+	]
+}

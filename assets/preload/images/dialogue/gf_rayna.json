@@ -1,0 +1,25 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		-190,
+		-220
+	],
+	"no_antialiasing": false,
+	"scale": 1.05,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-128,
+				-163
+			],
+			"idle_offsets": [
+				-126,
+				-164
+			],
+			"loop_name": "gf speaks",
+			"idle_name": "gf stop"
+		}
+	],
+	"image": "gf_portraits"
+}
