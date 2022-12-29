@@ -1,0 +1,236 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nothing better than coming home after a good job."
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh? What are those guys doing in that store? It's the middle of the night."
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "this place does not have 24-hour stores"
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "now that I have a good look at them, they look familiar."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "beta",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey You!"
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "uh?"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "beta",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "do you work in this store?."
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "if I worked here I would be like you "
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.03,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "lol",
+			"text": "asldjlaskdaskd"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "beta",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uhh... I think gf fooled us again"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "mean",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "it's obvious, since gold arrived she wants to spend more time with him."
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "ohh that's why that girl is not here huh"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "beta",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Do we know each other from somewhere? or why are you joining our conversation?"
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "uhh sorry, but who doesn't know the three of you, Mean, beta and blue"
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I know all of you from the news about"
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "''a huge blue girl faces three dwarves and a red girl''."
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "lol",
+			"text": "it sounded very funny so I read that article."
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyway, I admire all three of you, what you guys did was impressive."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "beta",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well since you know us, tell us who you are"
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "huh",
+			"text": "huh?"
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well..."
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you guys can call me May, its nice to meet all of you"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "beta",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ohh well May, the pleasure is ours"
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "beta",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well...this is a little uncomfortable..."
+		},
+		{
+			"sound": "dialogue",
+			"speed": 0.05,
+			"portrait": "beta",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how about we sing to break the ice, the three of us against you"
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's a bit unfair..."
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.03,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "lol",
+			"text": "sdskajdkja"
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "lol",
+			"text": "well that's what a loser would say, I can take each one of you one on one."
+		},
+		{
+			"sound": "dialogue_may",
+			"speed": 0.05,
+			"portrait": "may_enemy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so, let's just get started."
+		}
+	]
+}
