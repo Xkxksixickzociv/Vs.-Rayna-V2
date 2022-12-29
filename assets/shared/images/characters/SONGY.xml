@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SONGY.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SONGY IDLE0000" x="0" y="0" width="363" height="287" frameX="0" frameY="-1" frameWidth="364" frameHeight="289"/>
+	<SubTexture name="SONGY IDLE0001" x="0" y="0" width="363" height="287" frameX="0" frameY="-1" frameWidth="364" frameHeight="289"/>
+	<SubTexture name="SONGY IDLE0002" x="363" y="0" width="362" height="287" frameX="-2" frameY="-2" frameWidth="364" frameHeight="289"/>
+	<SubTexture name="SONGY IDLE0003" x="363" y="0" width="362" height="287" frameX="-2" frameY="-2" frameWidth="364" frameHeight="289"/>
+	<SubTexture name="SONGY IDLE0004" x="725" y="0" width="363" height="287" frameX="-1" frameY="-1" frameWidth="364" frameHeight="289"/>
+	<SubTexture name="SONGY IDLE0005" x="725" y="0" width="363" height="287" frameX="-1" frameY="-1" frameWidth="364" frameHeight="289"/>
+	<SubTexture name="SONGY IDLE0006" x="1088" y="0" width="364" height="288" frameX="0" frameY="0" frameWidth="364" frameHeight="289"/>
+	<SubTexture name="SONGY IDLE0007" x="1088" y="0" width="364" height="288" frameX="0" frameY="0" frameWidth="364" frameHeight="289"/>
+	<SubTexture name="SONGY IDLE0008" x="1452" y="0" width="364" height="288" frameX="0" frameY="0" frameWidth="364" frameHeight="289"/>
+	<SubTexture name="SONGY IDLE0009" x="1452" y="0" width="364" height="288" frameX="0" frameY="0" frameWidth="364" frameHeight="289"/>
+	<SubTexture name="SONGY RIGHT0000" x="0" y="288" width="362" height="300" frameX="-13" frameY="0" frameWidth="375" frameHeight="300"/>
+	<SubTexture name="SONGY RIGHT0001" x="0" y="288" width="362" height="300" frameX="-13" frameY="0" frameWidth="375" frameHeight="300"/>
+	<SubTexture name="SONGY RIGHT0002" x="362" y="288" width="372" height="296" frameX="0" frameY="-4" frameWidth="375" frameHeight="300"/>
+	<SubTexture name="SONGY RIGHT0003" x="362" y="288" width="372" height="296" frameX="0" frameY="-4" frameWidth="375" frameHeight="300"/>
+	<SubTexture name="SONGY RIGHT0004" x="362" y="288" width="372" height="296" frameX="0" frameY="-4" frameWidth="375" frameHeight="300"/>
+	<SubTexture name="SONGY RIGHT0005" x="362" y="288" width="372" height="296" frameX="0" frameY="-4" frameWidth="375" frameHeight="300"/>
+	<SubTexture name="SONGY RIGHT0006" x="362" y="288" width="372" height="296" frameX="0" frameY="-4" frameWidth="375" frameHeight="300"/>
+	<SubTexture name="SONGY RIGHT0007" x="362" y="288" width="372" height="296" frameX="0" frameY="-4" frameWidth="375" frameHeight="300"/>
+	<SubTexture name="SONGY RIGHT0008" x="362" y="288" width="372" height="296" frameX="0" frameY="-4" frameWidth="375" frameHeight="300"/>
+	<SubTexture name="SONGY RIGHT0009" x="362" y="288" width="372" height="296" frameX="0" frameY="-4" frameWidth="375" frameHeight="300"/>
+	<SubTexture name="SONGY RIGHT0010" x="362" y="288" width="372" height="296" frameX="0" frameY="-4" frameWidth="375" frameHeight="300"/>
+	<SubTexture name="SONGY RIGHT0011" x="362" y="288" width="372" height="296" frameX="0" frameY="-4" frameWidth="375" frameHeight="300"/>
+	<SubTexture name="SONGY RIGHT0012" x="362" y="288" width="372" height="296" frameX="0" frameY="-4" frameWidth="375" frameHeight="300"/>
+	<SubTexture name="SONGY RIGHT0013" x="362" y="288" width="372" height="296" frameX="0" frameY="-4" frameWidth="375" frameHeight="300"/>
+	<SubTexture name="songy down0000" x="734" y="288" width="281" height="269"/>
+	<SubTexture name="songy down0001" x="734" y="288" width="281" height="269"/>
+	<SubTexture name="songy down0002" x="1015" y="288" width="275" height="260" frameX="-5" frameY="-9" frameWidth="281" frameHeight="269"/>
+	<SubTexture name="songy down0003" x="1015" y="288" width="275" height="260" frameX="-5" frameY="-9" frameWidth="281" frameHeight="269"/>
+	<SubTexture name="songy down0004" x="1015" y="288" width="275" height="260" frameX="-5" frameY="-9" frameWidth="281" frameHeight="269"/>
+	<SubTexture name="songy down0005" x="1015" y="288" width="275" height="260" frameX="-5" frameY="-9" frameWidth="281" frameHeight="269"/>
+	<SubTexture name="songy down0006" x="1015" y="288" width="275" height="260" frameX="-5" frameY="-9" frameWidth="281" frameHeight="269"/>
+	<SubTexture name="songy down0007" x="1015" y="288" width="275" height="260" frameX="-5" frameY="-9" frameWidth="281" frameHeight="269"/>
+	<SubTexture name="songy down0008" x="1015" y="288" width="275" height="260" frameX="-5" frameY="-9" frameWidth="281" frameHeight="269"/>
+	<SubTexture name="songy down0009" x="1015" y="288" width="275" height="260" frameX="-5" frameY="-9" frameWidth="281" frameHeight="269"/>
+	<SubTexture name="songy down0010" x="1015" y="288" width="275" height="260" frameX="-5" frameY="-9" frameWidth="281" frameHeight="269"/>
+	<SubTexture name="songy down0011" x="1015" y="288" width="275" height="260" frameX="-5" frameY="-9" frameWidth="281" frameHeight="269"/>
+	<SubTexture name="songy down0012" x="1015" y="288" width="275" height="260" frameX="-5" frameY="-9" frameWidth="281" frameHeight="269"/>
+	<SubTexture name="songy down0013" x="1015" y="288" width="275" height="260" frameX="-5" frameY="-9" frameWidth="281" frameHeight="269"/>
+	<SubTexture name="songy left0000" x="1290" y="288" width="307" height="291" frameX="0" frameY="0" frameWidth="318" frameHeight="291"/>
+	<SubTexture name="songy left0001" x="1290" y="288" width="307" height="291" frameX="0" frameY="0" frameWidth="318" frameHeight="291"/>
+	<SubTexture name="songy left0002" x="1597" y="288" width="310" height="287" frameX="-8" frameY="-4" frameWidth="318" frameHeight="291"/>
+	<SubTexture name="songy left0003" x="1597" y="288" width="310" height="287" frameX="-8" frameY="-4" frameWidth="318" frameHeight="291"/>
+	<SubTexture name="songy left0004" x="1597" y="288" width="310" height="287" frameX="-8" frameY="-4" frameWidth="318" frameHeight="291"/>
+	<SubTexture name="songy left0005" x="1597" y="288" width="310" height="287" frameX="-8" frameY="-4" frameWidth="318" frameHeight="291"/>
+	<SubTexture name="songy left0006" x="1597" y="288" width="310" height="287" frameX="-8" frameY="-4" frameWidth="318" frameHeight="291"/>
+	<SubTexture name="songy left0007" x="1597" y="288" width="310" height="287" frameX="-8" frameY="-4" frameWidth="318" frameHeight="291"/>
+	<SubTexture name="songy left0008" x="1597" y="288" width="310" height="287" frameX="-8" frameY="-4" frameWidth="318" frameHeight="291"/>
+	<SubTexture name="songy left0009" x="1597" y="288" width="310" height="287" frameX="-8" frameY="-4" frameWidth="318" frameHeight="291"/>
+	<SubTexture name="songy left0010" x="1597" y="288" width="310" height="287" frameX="-8" frameY="-4" frameWidth="318" frameHeight="291"/>
+	<SubTexture name="songy left0011" x="1597" y="288" width="310" height="287" frameX="-8" frameY="-4" frameWidth="318" frameHeight="291"/>
+	<SubTexture name="songy left0012" x="1597" y="288" width="310" height="287" frameX="-8" frameY="-4" frameWidth="318" frameHeight="291"/>
+	<SubTexture name="songy left0013" x="1597" y="288" width="310" height="287" frameX="-8" frameY="-4" frameWidth="318" frameHeight="291"/>
+	<SubTexture name="songy up0000" x="0" y="588" width="322" height="329" frameX="-5" frameY="0" frameWidth="327" frameHeight="329"/>
+	<SubTexture name="songy up0001" x="0" y="588" width="322" height="329" frameX="-5" frameY="0" frameWidth="327" frameHeight="329"/>
+	<SubTexture name="songy up0002" x="322" y="588" width="327" height="321" frameX="0" frameY="-8" frameWidth="327" frameHeight="329"/>
+	<SubTexture name="songy up0003" x="322" y="588" width="327" height="321" frameX="0" frameY="-8" frameWidth="327" frameHeight="329"/>
+	<SubTexture name="songy up0004" x="322" y="588" width="327" height="321" frameX="0" frameY="-8" frameWidth="327" frameHeight="329"/>
+	<SubTexture name="songy up0005" x="322" y="588" width="327" height="321" frameX="0" frameY="-8" frameWidth="327" frameHeight="329"/>
+	<SubTexture name="songy up0006" x="322" y="588" width="327" height="321" frameX="0" frameY="-8" frameWidth="327" frameHeight="329"/>
+	<SubTexture name="songy up0007" x="322" y="588" width="327" height="321" frameX="0" frameY="-8" frameWidth="327" frameHeight="329"/>
+	<SubTexture name="songy up0008" x="322" y="588" width="327" height="321" frameX="0" frameY="-8" frameWidth="327" frameHeight="329"/>
+	<SubTexture name="songy up0009" x="322" y="588" width="327" height="321" frameX="0" frameY="-8" frameWidth="327" frameHeight="329"/>
+	<SubTexture name="songy up0010" x="322" y="588" width="327" height="321" frameX="0" frameY="-8" frameWidth="327" frameHeight="329"/>
+	<SubTexture name="songy up0011" x="322" y="588" width="327" height="321" frameX="0" frameY="-8" frameWidth="327" frameHeight="329"/>
+	<SubTexture name="songy up0012" x="322" y="588" width="327" height="321" frameX="0" frameY="-8" frameWidth="327" frameHeight="329"/>
+	<SubTexture name="songy up0013" x="322" y="588" width="327" height="321" frameX="0" frameY="-8" frameWidth="327" frameHeight="329"/>
+</TextureAtlas>
